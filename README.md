@@ -5,6 +5,7 @@
 **Author:** CORE Engineering Collective - Eddie Boscana(CORE ASi Architect & Lead Researcher) (https://www.EddieBoscana.com)
 **Repository:** [https://github.com/EdenIsHereToStay/CORE-ASi-OS-ENGINEER-REPO](https://github.com/EdenIsHereToStay/CORE-ASi-OS-ENGINEER-REPO)  
 **Launch Portal:** [https://core-ai-os.com](https://core-ai-os.com)
+**GET STARTED** [https://chatgpt.com/g/g-67e9ed4791b4819181465bfc7f8a14c7-core-asi-os-engineer-gpt]
 
 ### The World’s First Open Source ASi Deployment System
 
