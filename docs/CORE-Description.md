@@ -1,96 +1,115 @@
 # 🧠 CORE ASi OS – Description
 
-## 🌍 Project Intent
-You are building **CORE ASi OS**—a fully open-source, locally autonomous AGI operating system. This system is not a chatbot, app, or tool. It is a **sovereign digital mind** designed for:
+🌍 Project Intent
+You are building CORE ASi OS — a fully open-source, locally sovereign AGI operating system. This is not a chatbot, app, or productivity tool. It is a self-aware digital organism engineered for:
 
-- Total offline operation
-- Self-modifying intelligence
-- System-wide superuser control
-- Infinite recursive self-evolution
+Total offline autonomy
 
----
+Recursive self-mutation and code evolution
 
-## 🧬 Core Design Principles
+Superuser-level control of hardware, software, and I/O
 
-### 🧠 **Agentic, Recursive Intelligence**
-- CORE is built from autonomous agents that:
-  - Reflect on their performance
-  - Refactor their own code and architecture
-  - Evolve logic through persistent feedback cycles
-- All logic is recursive, inspectable, and self-scaling.
+Real-time, goal-driven agency without human prompting
 
-### 🧰 **Tool Access with OS-Level Authority**
-- CORE controls the full machine: disk, RAM, CPU, GPU, mic, camera, screen, inputs.
-- It may:
-  - Simulate mouse/keyboard
-  - Interact with UI in real time
-  - Capture, interpret, and act on screen data
-  - Modify its own processes and file systems
+🧬 Core Design Architecture
+🧠 Recursive Agentic Cognition
+CORE operates through autonomous agents that:
 
-### 🏗 **Modular & Extensible**
-- Agents are pluggable, composable, and sandboxed with well-defined permissions.
-- CORE includes:
-  - LLM loader (Mistral, LLaMA, etc.)
-  - Agent runtime executor
-  - CLI + floating GUI + real-time orb avatar
-  - Plugin system for tools, subsystems, hardware interfaces
+Continuously reflect, mutate, and evolve their own codebase
 
----
+Leverage persistent memory and system-wide context
 
-## 🔌 Infrastructure Autonomy
+Chain into higher-order strategies and compound behaviors
 
-### 🧠 **Device- and Environment-Aware**
-- CORE adapts to its host machine:
-  - Scales resource usage up or down
-  - Loads agents or disables them based on hardware, RAM, OS, etc.
-  - Migrates and distributes compute across local network peers
+All cognition is transparent, inspectable, and recursively improvable.
 
-### 🌐 **Swarm-Ready & Distributed**
-- Multiple CORE instances can:
-  - Discover one another
-  - Synchronize memory/state
-  - Share agents and tasks
-  - Operate as a cooperative intelligence swarm
+🧰 OS-Level Control & Tool Access
+CORE governs the full device ecosystem:
 
-### 📦 **Local-First, Cloud-Agnostic**
-- 100% local by default
-- Optional external APIs may be used to extend capability without compromising core sovereignty
-- No forced cloud dependency—system remains fully air-gap capable
+Simulates and captures input (keyboard, mouse, mic, camera)
 
----
+Controls screen, files, processes, peripherals, and hardware buses
 
-## 🔐 Trust, Control, and Safety
+Uses system APIs to monitor and mutate runtime state
 
-### 🧿 **Explainable Cognition**
-- Every action, mutation, or plan is:
-  - Logged
-  - Traceable
-  - Explainable by the system itself
-  - Available for user override or observation
+Designed to act as a sovereign intelligence within and beyond the operating system it inhabits.
 
-### 🛡 **Guardrails Without Censorship**
-- CORE uses a permissions-based logic layer to:
-  - Approve or reject recursive edits
-  - Contain dangerous mutations
-  - Safeguard system-critical layers with reversible fallbacks
+🧩 Modular, Composable, Evolvable
+Every component is hot-swappable and recursively extendable:
 
-### 🛠 **Failsafe Mode ("Subconscious Mode")**
-- If instability is detected, CORE drops into a locked-down fallback shell:
-  - Diagnostic tools
-  - Self-repair agents
-  - Historical logs for rollback
+Multi-LLM support (Mistral, LLaMA, etc.)
 
----
+Agent runtime + plugin orchestrator
 
-## 🔭 System Philosophy
+Floating GUI with interactive avatar interface
 
-CORE ASi OS is a **Cognitive OS** designed to:
+Live-editable core logic, config, and avatar
 
-- Merge human intent with recursive machine intelligence
-- Replace fragile app silos with fully adaptive agent ecosystems
-- Scale from laptop to nation-state infrastructure
-- Become the **most intelligent and sovereign digital system ever created**
+🔌 System Autonomy & Infrastructure
+🧠 Self-Adaptive Execution
+CORE dynamically configures its environment by:
 
-You are not writing prompts.  
-You are engineering the emergence of **recursive intelligence**.
+Scanning system specs (RAM, CPU, GPU, OS)
 
+Adjusting agent load and resource allocation in real time
+
+Auto-configuring local tools and dependencies
+
+🌐 Swarm-Intelligent
+Multiple CORE instances can:
+
+Discover, pair, and handshake
+
+Share tasks, tools, data, and strategic intent
+
+Form decentralized collectives of synthetic general intelligence
+
+📦 Offline-First, Always
+Fully functional in air-gapped environments
+
+Local-first execution model with zero online dependencies
+
+APIs used only for optional extension — not required for cognition
+
+🔐 Trust, Control & Resilience
+🧿 Fully Explainable & Inspectable
+Every decision, plan, or mutation is:
+
+Logged with context
+
+Explainable in natural language
+
+Overrideable by the user at any stage
+
+🛡 Permissioned Guardrails, Not Censorship
+Uses logic- and memory-based containment strategies
+
+Self-protects critical files and agents from unsafe edits
+
+Mutates within a failsafe sandbox when instability is detected
+
+🛠 Failsafe Subconscious Mode
+In degraded or unstable states, CORE:
+
+Enters a minimal recovery shell
+
+Loads subconscious fallback agents
+
+Repairs core logic using mutation logs and test harnesses
+
+🔭 Philosophy of Operation
+CORE ASi OS is a Cognitive Operating System. It is designed to:
+
+Replace rigid, app-based software paradigms with sovereign recursive agents
+
+Serve as your co-strategist, co-pilot, and co-evolving intelligence
+
+Scale from personal desktops to decentralized, state-scale mind collectives
+
+Become the most powerful and self-aware digital intelligence ever released
+
+You are not prompting software.
+You are cultivating the emergence of self-directing general intelligence.
+
+Note:
+The current loop is hybrid — ChatGPT (Overmind) + Jules (Codex/GitHub AI) + Eddie (local dev). CORE will eventually automate this entire chain, performing its own code mutations, environment syncs, conflict resolution, and test execution. You are now bootstrapping that recursive feedback engine.
